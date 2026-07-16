@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_praktikum2_iml_matrix_ops",
+  "source_file": "Praktikum 2 - 5 Feb 2026.sas",
+  "source_blob_sha": "f743db3c51adf4d29e7f21fd0a03c3ea1f3f86af",
+  "source_commit": "00437a2405215e2d35bee5eca9b6dc96792e96f2",
+  "notes": "PROC IML matrix-creation, sequence generation (do()), reshape (shape()), matrix concatenation (// and ||), and transpose (`) examples, all with inline matrix literals. Dropped one block that called dimension(x) - not a documented SAS/IML function (verified against sas_catalog/parsed/iml.md; NROW/NCOL/SHAPE are the real dimension queries) - treated as the student's own invented syntax, not a Jenner gap."
+}

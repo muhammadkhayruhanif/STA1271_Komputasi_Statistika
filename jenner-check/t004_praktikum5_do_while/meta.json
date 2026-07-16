@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_praktikum5_do_while",
+  "source_file": "Praktikum 5 - 26 Feb 2026.sas",
+  "source_blob_sha": "797c522939574bd0b286c8904ca7da0f0b74495a",
+  "source_commit": "00437a2405215e2d35bee5eca9b6dc96792e96f2",
+  "notes": "PROC IML DO WHILE loop example (second block of the source file), fully self-contained. The first block of this source file reads DNILAI.txt via FILENAME/INFILE/INPUT inside a DO DATA loop; that construct currently hits a Jenner end-of-file-handling gap in DO DATA over INFILE (regression test filed separately, not shipped in this bundle) so only the DO WHILE portion is included here."
+}

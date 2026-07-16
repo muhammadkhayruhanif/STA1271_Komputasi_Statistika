@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_praktikum1_data_steps",
+  "source_file": "Praktikum 1 - 29 Jan 2026.sas",
+  "source_blob_sha": "7f0154da30f209b247b16d2fbaac4a44253d53d6",
+  "source_commit": "00437a2405215e2d35bee5eca9b6dc96792e96f2",
+  "notes": "Four DATA-step + PROC PRINT/MEANS examples (numeric input, fixed-column char input, multi-var input, delimited infile). Fully self-contained inline DATALINES, no edits needed beyond adding options obs=100 in autoexec."
+}

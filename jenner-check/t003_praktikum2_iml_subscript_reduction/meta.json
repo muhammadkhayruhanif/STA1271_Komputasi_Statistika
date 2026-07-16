@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_praktikum2_iml_subscript_reduction",
+  "source_file": "Praktikum 2 - 5 Feb 2026.sas",
+  "source_blob_sha": "f743db3c51adf4d29e7f21fd0a03c3ea1f3f86af",
+  "source_commit": "00437a2405215e2d35bee5eca9b6dc96792e96f2",
+  "notes": "PROC IML subscript assignment (element/range/vector-index assignment) and subscript-reduction operators (sum/max/min-over-dim, index-of-min/max, mean) plus elementwise comparison and multiplication. Dropped one statement (b6 = A[2 1]) that used bare space-separated literals in a subscript with no comma or braces - not documented SAS/IML syntax (verified against SAS/IML docs); likely meant A[{2 1}] given correct braces usage elsewhere in the same script. Treated as student error, not a Jenner gap."
+}
