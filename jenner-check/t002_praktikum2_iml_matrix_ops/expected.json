@@ -1,0 +1,11 @@
+{
+  "_captured_at": "2026-07-16T14:40:00Z",
+  "_captured_run_id": "r_878ab90bf851449bbdfce47fbb40e6bc",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC IML"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-16T14:30:00Z",
+  "_captured_run_id": "r_db27625e38344744a480e61698172516",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote contohdata (2 rows, 3 columns).",
+    "NOTE: Wrote karakter (1 rows, 1 columns).",
+    "NOTE: Wrote mhs (4 rows, 4 columns).",
+    "NOTE: Wrote mhs2 (5 rows, 4 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

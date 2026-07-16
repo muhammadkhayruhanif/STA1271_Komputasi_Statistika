@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_tugas_uts_iml_randgen_stats",
+  "source_file": "Tugas Sesi UTS Hanif 058.sas",
+  "source_blob_sha": "dc2f915e3bdebb3951d9b02dfa5e73a78c2a8710",
+  "source_commit": "00437a2405215e2d35bee5eca9b6dc96792e96f2",
+  "notes": "Midterm homework: matrix arithmetic with missing values (+, #, ##, subscript-sum), then a seeded RANDGEN (randseed(058)) generating 40x3 normal scores, CHOOSE-based clamping, ROUND, weighted-sum score, MEAN/STD/max/min reduction, zero-mask, and SHAPE reshape. Fixed one statement (DataNilai[colname=NamaKolom]; used as a bare standalone statement) to the documented form (print DataNilai[colname=NamaKolom];) - same technique used correctly elsewhere in the repo (Praktikum 2). Dropped one un-seeded RANDGEN demo block (labelled 'Identifikasi maksud dari program' in the source - an open-ended exercise, not meant to be reproducible) since it produced different draws on repeated runs; the seeded block (randseed(058)) that is the actual homework deliverable is unaffected and fully reproducible."
+}
